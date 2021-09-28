@@ -5,7 +5,7 @@ intro_content: >
   Hey! Soy Atenea Rosales y este es mi sitio en donde retomo mi amor por la
   escritura :D
 intro_actions:
-  - label: Learn More
+  - label: conóceme
     url: /about
     style: primary
   - label: Contact
